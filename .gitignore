@@ -1,0 +1,25 @@
+# Node
+node_modules
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
+yarn.lock
+
+
+# OS X
+.DS_Store
+
+# Visual studio
+.vscode
+.vs
+
+# Expo web env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Expo
+.expo
+__generated__
